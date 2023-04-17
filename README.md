@@ -25,6 +25,8 @@ npm run dev
 ```sh
 npm run build
 ```
+### Warning
+due to large audio files I was not able to upload all the asset files in this directory so the only ones that were included was the first surah and the last one.
 
 ### Run Unit Tests with [Vitest](https://vitest.dev/)
 
