@@ -1,4 +1,4 @@
-# Quaran
+# Alhamdulillah
 
 ## Recommended IDE Setup
 
